@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mercedes-Benz",
+    "color": "red",
+    "price": "10000$",
+    "year": 2010,
+    "id": 1
+  },
+  {
+    "name": "Lexus",
+    "color": "black",
+    "price": "50000$",
+    "year": 2020,
+    "id": 2
+  }
+]
