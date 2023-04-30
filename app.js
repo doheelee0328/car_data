@@ -47,7 +47,6 @@ app.post('/cars', (req, res) => {
   }
   // use push to add new items into the body
 
-  // make new friends based on the data
 })
 
 module.exports = app
