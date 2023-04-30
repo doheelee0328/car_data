@@ -1,4 +1,4 @@
-# Car_data
+# Car data
 
 In this coding challenge, I had the opportunity to learn and work with Node.js and Express for the first time. Node.js is a runtime environment that allows developers to run JavaScript code on the server-side, while Express is a popular framework built on top of Node.js that simplifies the process of building web applications and APIs.
 Using my newly acquired skills, I successfully built a RESTful API using Express and CORS. The API provides users with the ability to access information about cars and add new cars to our database via HTTP requests. Specifically, the API supports GET requests to retrieve information about all cars or a specific car by ID, and POST requests to add new cars to the database.
