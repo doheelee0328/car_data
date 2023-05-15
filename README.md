@@ -2,6 +2,21 @@
 
 ## How to run the server
 
+### Installation
+
+Use the following command to download all the dependencies:
+
+"npm install"
+
+This command will read the package.json file and install all the required packages listed there. Make sure you have Node.js and npm installed on your machine.
+
+### Usage
+
+To run the server in development mode, use the following command:
+
+"npm run dev"
+
+This command will start the server using the configured script in the package.json file. It may include additional tasks like transpiling code or restarting the server on file changes.
 
 ## Overview
 In this coding challenge, I had the opportunity to learn and work with Node.js and Express for the first time. 
