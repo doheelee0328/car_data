@@ -16,7 +16,7 @@ To run the server in development mode, use the following command:
 
 "npm run dev"
 
-This command will start the server using the configured script in the package.json file. It may include additional tasks like transpiling code or restarting the server on file changes.
+This command will start the server using the configured script in the package.json file. 
 
 ## Overview
 In this coding challenge, I had the opportunity to learn and work with Node.js and Express for the first time. 
